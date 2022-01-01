@@ -1,0 +1,23 @@
+image{
+    opacity:1;
+}
+img:hover{
+    opacity: 0.3;
+    border-style: double;
+}
+#btn{
+    background-color: #ff7f50;
+    width: 100px;
+    color: white;
+    padding: 15px 32px;
+    
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+}
+#btn:hover{
+    transition: 0.5s;
+    background-color: #7fff00;
+    box-sizing: 0px 0px 40px #7fff00;
+}

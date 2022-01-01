@@ -1,0 +1,18 @@
+body{
+    color: white;
+}
+.c1{
+    width:200px;
+    height: 80px;
+}
+.im{
+    border-radius: 60%  ;
+    border-style:groove;
+}
+#btn{
+    margin: 140px 100px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    border-style:groove;
+}

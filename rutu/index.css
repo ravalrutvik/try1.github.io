@@ -1,0 +1,44 @@
+ul{   
+    width: 531px;
+    margin: 0 400;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    background-color:yellowgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+   
+}
+li{
+    float: left;
+    border-right: 3px solid#156ee2;
+   
+}
+a{
+    display: block;
+    padding: 0 28;
+    color: white;
+    text-decoration: none;
+}
+.navelim:hover{
+    background-color:blue ;
+}
+.xc{
+    display: block;
+   margin:200 500 ;
+    width: 150px;
+    height: 50px;
+    background-color:  #FF00CD;
+} 
+.btn1{
+    display: inline-block;
+    width: 0;
+    margin: 0 auto;    
+    
+}
+body{
+    background-image: url("tom\ and\ jary.jpg");
+
+}
+   
